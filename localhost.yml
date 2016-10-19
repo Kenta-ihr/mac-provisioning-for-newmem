@@ -16,6 +16,7 @@
       - { name: google-chrome }
       - { name: java }
       - { name: slack }
+      - { name: skype }
       - { name: virtualbox }
       - { name: vagrant }
   tasks:
